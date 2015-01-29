@@ -5,12 +5,12 @@
   <style type="text/css">
     @font-face {
       font-family: 'mon_vivaldiregular';
-      src: url('../fonts/monvivaldi-webfont.eot');
-      src: url('../fonts/monvivaldi-webfont.eot?#iefix') format('embedded-opentype'),
-           url('../fonts/monvivaldi-webfont.woff2') format('woff2'),
-           url('../fonts/monvivaldi-webfont.woff') format('woff'),
-           url('../fonts/monvivaldi-webfont.ttf') format('truetype'),
-           url('../fonts/monvivaldi-webfont.svg#mon_vivaldiregular') format('svg');
+      src: url('fonts/monvivaldi-webfont.eot');
+      src: url(fonts/monvivaldi-webfont.eot?#iefix') format('embedded-opentype'),
+           url('fonts/monvivaldi-webfont.woff2') format('woff2'),
+           url('fonts/monvivaldi-webfont.woff') format('woff'),
+           url('fonts/monvivaldi-webfont.ttf') format('truetype'),
+           url('fonts/monvivaldi-webfont.svg#mon_vivaldiregular') format('svg');
       font-weight: normal;
       font-style: normal;
       
